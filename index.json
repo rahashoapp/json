@@ -4,15 +4,15 @@
     },
     "Nodes": [
         {
-            "EstablishMoment": "2020/05/26 09:28",
+            "EstablishMoment": "2020/05/26 09:31",
             "Link": "tg://proxy?server=167.99.188.120&port=443&secret=ee000000000000000000000000000000006261636b656e642e72656475782e6a732e6f7267"
         },
         {
-            "EstablishMoment": "2020/05/26 09:28",
+            "EstablishMoment": "2020/05/26 09:31",
             "Link": "tg://proxy?server=167.71.6.198&port=443&secret=ee000000000000000000000000000000006261636b656e642e72656475782e6a732e6f7267"
         },
         {
-            "EstablishMoment": "2020/05/26 09:28",
+            "EstablishMoment": "2020/05/26 09:32",
             "Link": "tg://proxy?server=64.227.60.176&port=443&secret=ee000000000000000000000000000000006261636b656e642e72656475782e6a732e6f7267"
         }
     ],
