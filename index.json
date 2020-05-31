@@ -38,10 +38,6 @@
         {
             "EstablishMoment": "2020/05/31 11:27",
             "Link": "tg://proxy?server=161.35.213.214&port=443&secret=ee000000000000000000000000000000006261636b656e642e72656475782e6a732e6f7267"
-        },
-        {
-            "EstablishMoment": "2020/05/31 11:27",
-            "Link": "tg://proxy?server=167.71.113.151&port=443&secret=ee000000000000000000000000000000006261636b656e642e72656475782e6a732e6f7267"
         }
     ],
     "SupportedVersions": [
